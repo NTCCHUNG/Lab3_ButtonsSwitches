@@ -1,0 +1,6 @@
+../Core/Src/update_value.c:7:6:bufferValue	16	static
+../Core/Src/update_value.c:16:6:bufferMode	16	static
+../Core/Src/update_value.c:20:6:update_value	16	static
+../Core/Src/update_value.c:36:6:update_mode	16	static
+../Core/Src/update_value.c:60:6:display_counter	8	static
+../Core/Src/update_value.c:68:6:display_mode	8	static

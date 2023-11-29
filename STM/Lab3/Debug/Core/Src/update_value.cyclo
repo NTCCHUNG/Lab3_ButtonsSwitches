@@ -1,0 +1,6 @@
+../Core/Src/update_value.c:7:6:bufferValue	2
+../Core/Src/update_value.c:16:6:bufferMode	1
+../Core/Src/update_value.c:20:6:update_value	3
+../Core/Src/update_value.c:36:6:update_mode	3
+../Core/Src/update_value.c:60:6:display_counter	3
+../Core/Src/update_value.c:68:6:display_mode	3
